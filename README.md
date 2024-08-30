@@ -2,7 +2,11 @@
 
 ## Description
 
-Indigo Card is a modern and intuitive expense tracking application designed to help users manage their finances effortlessly. With a sleek user interface and robust functionality, Indigo Card simplifies the process of recording, categorizing, and analyzing expenses. Whether you're an individual looking to keep track of personal spending or a small business owner managing company expenses, Indigo Card offers the tools you need to stay on top of your finances. The application is built with cutting-edge technologies, ensuring a seamless experience across all devices. With features like real-time expense tracking, detailed reporting, and customizable categories, Indigo Card is your go-to solution for financial management.
+Indigo Card is a modern and intuitive expense tracking application designed to help users manage their finances effortlessly. With a sleek user interface and robust functionality, Indigo Card simplifies the process of recording, categorizing, and analyzing expenses. 
+
+Whether you're an individual looking to keep track of personal spending or a small business owner managing company expenses, Indigo Card offers the tools you need to stay on top of your finances. The application is built with cutting-edge technologies, ensuring a seamless experience across all devices. 
+
+With features like real-time expense tracking, detailed reporting, and customizable categories, Indigo Card is your go-to solution for financial management.
 
 ## Features
 
